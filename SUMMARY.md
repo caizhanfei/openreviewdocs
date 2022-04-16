@@ -1,6 +1,6 @@
 # Table of contents
 
-* [openreviewdocs](README.md)
+* [OpenReview使用手册](README.md)
 
 ## 用户使用报告
 
@@ -24,3 +24,7 @@
   * [导入DBLP账户中的论文](kai-shi-shi-yong-openreview/ru-he-zhu-ce-openreview-zhang-hu/dao-ru-dblp-zhang-hu-zhong-de-lun-wen.md)
   * [手动添加论文](kai-shi-shi-yong-openreview/ru-he-zhu-ce-openreview-zhang-hu/shou-dong-tian-jia-lun-wen.md)
   * [添加Semantic Scholar链接](kai-shi-shi-yong-openreview/ru-he-zhu-ce-openreview-zhang-hu/tian-jia-semantic-scholar-lian-jie.md)
+
+## 程序委员会(PC)指南
+
+* [Page 1](cheng-xu-wei-yuan-hui-pc-zhi-nan/page-1.md)
