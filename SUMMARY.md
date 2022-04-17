@@ -14,7 +14,7 @@
   * [读取/添加邀约(Invitation)](kai-shi-shi-yong-openreview/ru-he-shi-yong-openreview-ti-gong-de-python-api-jie-kou/du-qu-tian-jia-yao-yue-invitation.md)
   * [读取/添加关系(edge)](kai-shi-shi-yong-openreview/ru-he-shi-yong-openreview-ti-gong-de-python-api-jie-kou/du-qu-tian-jia-guan-xi-edge.md)
   * [读取/添加群组(group)](kai-shi-shi-yong-openreview/ru-he-shi-yong-openreview-ti-gong-de-python-api-jie-kou/du-qu-tian-jia-qun-zu-group.md)
-* [如何使用OpenReview来组织学术会议](kai-shi-shi-yong-openreview/ru-he-shi-yong-openreview-lai-zu-zhi-xue-shu-hui-yi.md)
+* [如何使用OpenReview来组织一场学术会议](kai-shi-shi-yong-openreview/ru-he-shi-yong-openreview-lai-zu-zhi-yi-chang-xue-shu-hui-yi.md)
 * [如何注册OpenReview账户](kai-shi-shi-yong-openreview/ru-he-zhu-ce-openreview-zhang-hu/README.md)
   * [注册账号](kai-shi-shi-yong-openreview/ru-he-zhu-ce-openreview-zhang-hu/zhu-ce-zhang-hao.md)
   * [修改账号名字](kai-shi-shi-yong-openreview/ru-he-zhu-ce-openreview-zhang-hu/xiu-gai-zhang-hao-ming-zi.md)
