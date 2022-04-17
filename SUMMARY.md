@@ -25,6 +25,20 @@
   * [手动添加论文](kai-shi-shi-yong-openreview/ru-he-zhu-ce-openreview-zhang-hu/shou-dong-tian-jia-lun-wen.md)
   * [添加Semantic Scholar链接](kai-shi-shi-yong-openreview/ru-he-zhu-ce-openreview-zhang-hu/tian-jia-semantic-scholar-lian-jie.md)
 
-## 程序委员会(PC)指南
+## 会议组织者指南
 
-* [Page 1](cheng-xu-wei-yuan-hui-pc-zhi-nan/page-1.md)
+* [会议流程](hui-yi-zu-zhi-zhe-zhi-nan/hui-yi-liu-cheng/README.md)
+  * [如何测试会议流程](hui-yi-zu-zhi-zhe-zhi-nan/hui-yi-liu-cheng/ru-he-ce-shi-hui-yi-liu-cheng.md)
+  * [如何在论文递交截止前开始审稿](hui-yi-zu-zhi-zhe-zhi-nan/hui-yi-liu-cheng/ru-he-zai-lun-wen-di-jiao-jie-zhi-qian-kai-shi-shen-gao.md)
+  * [如何修改评议/总评议/审稿意见表格](hui-yi-zu-zhi-zhe-zhi-nan/hui-yi-liu-cheng/ru-he-xiu-gai-ping-yi-zong-ping-yi-shen-gao-yi-jian-biao-ge.md)
+  * [如何在会议中添加多个审稿人群组或领域主席(AC)群组](hui-yi-zu-zhi-zhe-zhi-nan/hui-yi-liu-cheng/ru-he-zai-hui-yi-zhong-tian-jia-duo-ge-shen-gao-ren-qun-zu-huo-ling-yu-zhu-xi-ac-qun-zu.md)
+  * [如何在会议中添加不同主题(track)或论文分类](hui-yi-zu-zhi-zhe-zhi-nan/hui-yi-liu-cheng/ru-he-zai-hui-yi-zhong-tian-jia-bu-tong-zhu-ti-track-huo-lun-wen-fen-lei.md)
+  * [如何修改会议主页](hui-yi-zu-zhi-zhe-zhi-nan/hui-yi-liu-cheng/ru-he-xiu-gai-hui-yi-zhu-ye.md)
+  * [如何发布论文评议](hui-yi-zu-zhi-zhe-zhi-nan/hui-yi-liu-cheng/ru-he-fa-bu-lun-wen-ping-yi.md)
+  * [如何提交已接收论文的最终版本](hui-yi-zu-zhi-zhe-zhi-nan/hui-yi-liu-cheng/ru-he-ti-jiao-yi-jie-shou-lun-wen-de-zui-zhong-ban-ben.md)
+  * [如何在审稿完成时将论文公开](hui-yi-zu-zhi-zhe-zhi-nan/hui-yi-liu-cheng/ru-he-zai-shen-gao-wan-cheng-shi-jiang-lun-wen-gong-kai.md)
+  * [如何只公开已接收论文的作者](hui-yi-zu-zhi-zhe-zhi-nan/hui-yi-liu-cheng/ru-he-zhi-gong-kai-yi-jie-shou-lun-wen-de-zuo-zhe.md)
+  * [如何在会议主页中将论文按评审结果分类](hui-yi-zu-zhi-zhe-zhi-nan/hui-yi-liu-cheng/ru-he-zai-hui-yi-zhu-ye-zhong-jiang-lun-wen-an-ping-shen-jie-guo-fen-lei.md)
+* [论文与审稿人的匹配和分配](hui-yi-zu-zhi-zhe-zhi-nan/lun-wen-yu-shen-gao-ren-de-pi-pei-he-fen-pei/README.md)
+  * [手动分配](hui-yi-zu-zhi-zhe-zhi-nan/lun-wen-yu-shen-gao-ren-de-pi-pei-he-fen-pei/shou-dong-fen-pei.md)
+  * [自动分配](hui-yi-zu-zhi-zhe-zhi-nan/lun-wen-yu-shen-gao-ren-de-pi-pei-he-fen-pei/zi-dong-fen-pei.md)
