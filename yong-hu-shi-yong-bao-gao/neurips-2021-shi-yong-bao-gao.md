@@ -14,20 +14,16 @@ NeurIPS是机器学习领域的顶会之一。NeurIPS的组织者们决定于202
 
 提交到NeurIPS的论文数量最近十年出现了爆发式的增长，NeurIPS也一直在探索同行评仪过程中新的可能性。
 
-NeurIPS 2021 workflow was very similar to its previous years: double blind, closed reviewing, with area chairs and senior area chairs, and meta-reviews, with the addition in 2021 of rolling reviewer discussion with authors (rather than a single author response).
+NeurIPS2021的会议流程与之前几年基本相同：双盲评议，设置有领域主席(AC)，高级领域主席(SAC)和总评议。今年论文作者与审稿人之间可以进行多轮讨论而在此之前论文作者只有一次回应审稿人疑问的机会。
 
-NeurIPS2021的会议流程与之前几年基本相同：双盲评议，设置有领域主席(AC)，高级领域主席(SAC)和总评议。
+在会议流程和时间方面我们与OpenReview团队通过共享文档，视频会议和即时通信软件进行了紧密的配合。论文提交和评议的过程中，OpenReview的技术人员对NeurIPS程序委员会主席们的问题提供了24x7的迅速支持，还为NeurIPS提供了许多定制化的功能。
 
-Workflow details and timing were planned extensively with the OpenReview team, and coordinated through Google Docs, several video conference meetings, and conversations through a shared Slack channel. Throughout the submission and reviewing process OpenReview technical staff provided 24/7 support to the NeurIPS program chairs, including rapid responses and custom work.
+下面我们列出了一些NeurIPS2021涉及到的关键流程和服务：
 
-Below is a summary of key workflow steps and services. (Detailed workflow is described [here](https://docs.google.com/document/d/1JKNmfEBC2yVXCU-3YLn4MQd4KKWrP-hU9TmAWaBzZCs/edit).)
+**审稿人邀请**：NeurIPS程序委员会主席们共邀请了超过一万三千名审稿人、一千名领域主席和一百五十五名高级领域主席。取得国际学习表征会议ICLR组织者同意之后，OpenReview为我们提供了2016至2021年所有中稿论文的作者名单。
 
-***
-
-**Reviewer recruiting**. NeurIPS PCs invited over 13k reviewers, 1k area chairs and 155 senior area chairs. With the permission of ICLR, OpenReview also shared with the PCs the list of accepted authors of the previous ICLR conference from 2016 until 2021.
-
-* **Reviewer & author registration**. OpenReview already had profiles for approximately 228k researchers. During the reviewer recruiting and the paper submission 11k profiles were created, and incorporated their papers from DBLP, running our own version of author coreference, augmented by verification performed by OpenReview staff. NeurIPS required all authors (not just submitting authors) to register with OpenReview (mostly for the purposes of conflict-of-interest resolution, and gathering multiple email addresses per person). During the month of May 12,537 new user profiles were created, more than in any month of OpenReview’s history.
-* **Conflicts-of-interest gathering**. Author and reviewer profiles include not only current institution domain names, but also a DBLP URL (from which authors imported all their publications), Google Scholar URL, and extensive conflict-of-interest information, including institutional history, advisors, other collaborators, and social connections, and other non-institutional conflicts. As requested by NeurIPS, we also added the ability to record private conflicts (not shown in the public web site). For NeurIPS review matching, OpenReview computed the conflicts based on institution history, all conflict relations listed above, and paper co-authorship within the last 3 years.
+* **审稿人/论文作者注册**：已有将近二十三万研究人员在OpenReview平台注册有帐户。在审稿人邀请和论文提交阶段，还是有超过一万名研究人员新注册了账户并从DBLP导入了论文。在OpenReview技术人员的帮助下我们进行了账号的共指消解。为了避免论文作者与审稿人之间的利益冲突，我们要求论文列出的所有作者都注册一个OpenReview账户。2021年5月间，共有12537名新用户在OpenReview注册了账户，这打破了OpenReview账户注册的历史。
+* **发现利益冲突**：论文作者与审稿人的账户中不光记录了目前的组织或企业，也记录了DBLP个人主页、谷歌学术个人主页以及其他可以用于发现潜在利益冲突的信息比如教育和工作经历、导师信息、合作者信息以及部分家庭信息。OpenReview还为NeurIPS增加了隐私利益冲突功能，即作者或审稿人所添加的利益冲突信息并不会显示在其个人主页上。这次，OpenReview使用工作经历、提交的利益冲突信息和过去三年的论文合作者信息来计算论文作者与审稿人之间的利益冲突。
 * **Reviewer expertise modeling**. Expertise models were built for all reviewers, using OpenReview’s own modern deep learning embedding methods run on titles and abstracts of reviewers’ papers. NeurIPS decided to use only our expertise model instead of TPMS or Semantic Scholar.
 * **Paper submissions**. As requested by NeurIPS 2021 PCs, draft paper titles and abstracts were submitted one week before the full-paper deadline. OpenReview received 11,729 paper submissions. In the 24 hours before the final deadline, OpenReview received over 42k submission updates, and had over 28k active users (over 2.3k active simultaneous users during the last hour of submissions). The OpenReview multi-server system never surpassed 50% CPU usage, and maintained smooth operation with rapid system response throughout. In addition, during the submission period over 110k email messages were sent to authors (sent to each author for each update).
 * **Bidding**. SACs bid on ACs and both ACs and reviewers bid on papers, assigned as a “task” that was not complete until a given number of bids had been entered. During reviewer bidding, SACs, ACs and reviewers were able to sort the ACs/papers by affinity scores or search by metadata.
