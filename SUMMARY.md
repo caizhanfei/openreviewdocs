@@ -32,7 +32,7 @@
   * [如何在论文递交截止前开始审稿](hui-yi-zu-zhi-zhe-zhi-nan/hui-yi-liu-cheng/ru-he-zai-lun-wen-di-jiao-jie-zhi-qian-kai-shi-shen-gao.md)
   * [如何修改评议/总评议/审稿意见表格](hui-yi-zu-zhi-zhe-zhi-nan/hui-yi-liu-cheng/ru-he-xiu-gai-ping-yi-zong-ping-yi-shen-gao-yi-jian-biao-ge.md)
   * [如何在会议中添加多个审稿人群组或领域主席(AC)群组](hui-yi-zu-zhi-zhe-zhi-nan/hui-yi-liu-cheng/ru-he-zai-hui-yi-zhong-tian-jia-duo-ge-shen-gao-ren-qun-zu-huo-ling-yu-zhu-xi-ac-qun-zu.md)
-  * [如何在会议中添加不同主题(track)或论文分类](hui-yi-zu-zhi-zhe-zhi-nan/hui-yi-liu-cheng/ru-he-zai-hui-yi-zhong-tian-jia-bu-tong-zhu-ti-track-huo-lun-wen-fen-lei.md)
+  * [如何在会议中添加不同专题(track)或论文分类](hui-yi-zu-zhi-zhe-zhi-nan/hui-yi-liu-cheng/ru-he-zai-hui-yi-zhong-tian-jia-bu-tong-zhuan-ti-track-huo-lun-wen-fen-lei.md)
   * [如何修改会议主页](hui-yi-zu-zhi-zhe-zhi-nan/hui-yi-liu-cheng/ru-he-xiu-gai-hui-yi-zhu-ye.md)
   * [如何发布论文评议](hui-yi-zu-zhi-zhe-zhi-nan/hui-yi-liu-cheng/ru-he-fa-bu-lun-wen-ping-yi.md)
   * [如何提交已接收论文的最终版本](hui-yi-zu-zhi-zhe-zhi-nan/hui-yi-liu-cheng/ru-he-ti-jiao-yi-jie-shou-lun-wen-de-zui-zhong-ban-ben.md)

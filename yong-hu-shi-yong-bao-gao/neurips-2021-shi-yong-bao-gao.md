@@ -32,20 +32,20 @@ NeurIPS2021的会议流程与之前几年基本相同：双盲评议，设置有
 * **评审和讨论**：审稿人在OpenReview提交的评审意见对该论文的AC立即可见，而论文作者和其他审稿人需等到审稿截止日期之后才能看到。应NeurIPS的要求，OpenReview在论文的讨论区添加了将讨论按来源分类为不同标签页的功能来方便查阅。在论文评审期间，OpenReview平台共收到了37284条评审意见、8103条总评审、452条道德评审以及十万余条评论。
 * **审稿质量评分**：AC可以对审稿人提交的评审进行打分，论文作者也可以对收到的评审意见提供反馈。不过AC的评分和论文作者的反馈都只对PC可见。
 * **道德评审**：今年OpenReview首次为NeurIPS设置了道德评审功能。有道德评审主席对收到投诉的论文分配道德评审来判断对受举报论文的处理方式。道德评审的分配也使用了OpenReview提供的模型和算法。
-* **Decisions**. OpenReview provides the ability to download various CSV files, which PCs downloaded into Google Sheets, including AC decisions. Some decisions were modified by the PCs. Then OpenReview emailed and posted the decision based directly on this Google Sheet. (In future, OpenReview may provide browsing, sorting, and editing directly through its UI; avoiding the need for Google Sheets. Alternatively, we may more closely embrace Google Sheets––leveraging its features––with live bi-directional data updates between OpenReview and the Google Sheet.)
-* **接收结果**：
-* **Camera-ready revisions**. OpenReview created additional upload invitations and tasks for accepted paper authors, including copyright form, supplementary materials (including videos), camera-ready LaTeX zip file.
-* **Conference track formation**. OpenReview also provided affinity scores between accepted papers, as input to paper clustering, for conference track assignments.
+* **接收结果**：PC从OpenReview把包括AC意见在内的接收结果下载为CSV文件然后做出了一些修改。接收结果确定之后OpenReview依照修改过的CSV文件公布了接收结果并以邮件的方式通知了论文作者。以后我们也可能在OpenReview上直接对论文接收结果进行浏览和修改，也可能利用Google表格与OpenReview进行信息同步。
+* **最终修改版**：如果论文被NeurIPS接收，论文作者可以在OpenReview上传论文的最终修改版以及相应的版权协议、包括视频在内的补充材料和LaTeX。
+* **专题会议**：OpenReview计算了确定接收论文的相似性得分，在此基础上进行聚类分析就可以形成专题会议的框架。
 
-**System Responsiveness**
+**系统性能**
 
-Throughout the submission period, the OpenReview system provided smooth service, with rapid response and smooth uptime.
+在NeurIPS2021的论文提交过程中，OpenReview平台提供了流畅的体验。
 
-**Peer Review Experiments**:
+**同行评议实验**：
 
-With the help and guidance of the team at OpenReview, NeurIPS 2021 ran the following experiments:
+在OpenReview团队的帮助下，NeurIPS2021对论文的同行评议进行了以下几个实验：
 
 * **Consistency experiment**: In 2014, NeurIPS ran an experiment in which 10% of submissions were reviewed by two independent program committees to quantify the randomness in the review process. Since then, the number of annual NeurIPS submissions has increased more than fivefold. To check whether decision consistency has changed as the conference has grown, we ran a variant of this experiment again in 2021. Thе results of this experiment are reported here: ​[​https://blog.neurips.cc/2021/12/08/the-neurips-2021-consistency-experiment/](https://blog.neurips.cc/2021/12/08/the-neurips-2021-consistency-experiment/)
+* **论文接收意见的一致性**：2014年开始，NeurIPS就对
 * To discourage **resubmissions** without substantial changes, authors were asked to declare if a previous version of their submission had been rejected from another peer-reviewed venue. Like the year before, authors of resubmissions were asked to describe the improvements made. This information was entered into OpenReview during the submission process. To evaluate **resubmission bias**, resubmission information was made visible to reviewers and area chairs only for a randomly chosen 50% of submissions. While the experiment allowed us to eliminate a significant bias, we can’t confidently ascertain there is none.
 * **Author perception experiment**: OpenReview implemented a two-part author survey to help NeurIPS understand how well authors’ perception of their submissions agrees with reviewing outcomes. The results of this experiment are forthcoming.
 
